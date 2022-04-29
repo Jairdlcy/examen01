@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prob3</title>
+  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+ 
+      </a>
+    </header>
+    <h3 class="">Configuracion de tablero</h1>
+    <form>
+      
+      <div class="">
+        
+        <div class="">
+    
+            <label class="l" for="">Jugador</label>
+            <div class="">
+                <input type="text" class="" id="">
+            </div>          
+        </div>    
+       
+        <div class="">        
+          <label class="" for="">Fila</label>
+          <div class="">
+              <input type="text" class="" id="">
+          </div>         
+        </div>
+
+        <label class="" for="">Columnas</label>
+            <div class="">
+                <input type="text" class="form-control" id="inputName">
+            </div>          
+        </div>
+
+        <label class="" for="">Nivel</label>
+            <div class="">
+                <input type="text" class="form-control" id="">
+            </div>          
+        </div>
+
+        <div >
+          <button >Configuracion</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <label >Bienvenido Juan Perez</label>
+  <table>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+      </tr>
+      
+    </tbody>
+  </table>
+  <label>Jugar</label>
+
+</body>
+</html>
