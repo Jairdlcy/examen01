@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina de Compras</title>
+</head>
+<body>
+ 
+  <h2>Carrito de compras</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Producto</th>
+        <th>Precio</th>
+        <th>Cantidad</th>
+        <th>Sub total</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Producto 1</td>
+        <td>$15 USD</td>
+        <td>1</td>
+        <td>$15 USD</td>
+        <td><button>Borrar</button></td>
+      </tr>
+      <tr>
+        <td>Producto 2</td>
+        <td>$25 USD</td>
+        <td>1</td>
+        <td>$25 USD</td>
+        <td><button>Borrar</button></td>
+      </tr>
+      <tr>
+        <td>Producto 3</td>
+        <td>$15 USD</td>
+        <td>1</td>
+        <td>$15 USD</td>
+        <td><button>Borrar</button></td>
+      </tr>
+      <tr>
+        <td>Producto 4</td>
+        <td>$25 USD</td>
+        <td>1</td>
+        <td>$25 USD</td>
+        <td><button>Borrar</button></td>
+      </tr>
+      <tr>
+        <td><button type="button"> Continue Comprando </button></td>
+        <td></td>
+        <td></td>
+        <td>$85 USD</td>
+        <td><button>Pagos > </button></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
