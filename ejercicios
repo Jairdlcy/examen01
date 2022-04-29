@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prob1</title>
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="">
+        <span class="fs-4">Detalles de la tarjeta</span>
+        </a>
+        </header>
+        <form>
+
+            <div class="">
+
+                <div class="">
+
+                    <label class="" for="">Numero de tarjeta</label>
+                    <div class=""> 
+                        <input type="text" class="" id="">
+                    </div>
+                </div>
+
+                <div class="">
+                    <label class="" for="">Nombre del titular</label>
+                    <div class="">
+                        <input type="text" class="" id="">
+                    </div>
+                </div>
+                <div class="">
+                    <label class="" for="">Mes de expiracion</label>
+                    <div class="">
+                        <input type="date" class="" id="">
+                    </div>
+                </div>
+                <div class="">
+                    <label class="" for="">Año de expiracion</label>
+                    <div class="">
+                        <input type="date" class="" id="">
+                    </div>
+                </div>
+                <div class="">
+                    <div class="">
+                        <label class="" for="">CVC</label>
+                        <div class="">
+                            <input type="text" class="" id="">
+                        </div>
+                    </div>
+
+                    <LABel>info</LABel>
+                    <button class="">Aceptar</button>
+                </div>
+                <div class="">
+                    <button class="">Cancelar</button>
+                </div>
+        </form>
+    </div>
+</body>
+
+</html>
